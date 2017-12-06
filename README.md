@@ -5,7 +5,7 @@
 
 ## Installation
 
-[![Chocolatey](https://img.shields.io/chocolatey/v/superorca.svg?style=flat-square)](https://chocolatey.org/packages/superorca) https://chocolatey.org/packages/superorca
+[![Chocolatey](https://img.shields.io/chocolatey/v/superorca.svg)](https://chocolatey.org/packages/superorca) https://chocolatey.org/packages/superorca
 
     > choco install superorca
 
@@ -25,4 +25,4 @@ The actual (un)installation is done in *.ps1*-files:
 
 ## License
 
-chocolatey-superorca is published under [WTFNMFPLv3](https://andreas.niedermair.name/introducing-wtfnmfplv3)
+chocolatey-superorca  is published under [WTFNMFPLv3](https://github.com/dittodhole/WTFNMFPLv3).
