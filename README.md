@@ -23,6 +23,12 @@ The actual (un)installation is done in *.ps1*-files:
     > choco pack
     > choco push
 
+## Contributions
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors)
+<!-- ALL-CONTRIBUTORS-BADGE:END --> 
+
 ## License
 
 chocolatey-superorca  is published under [WTFNMFPLv3](https://github.com/dittodhole/WTFNMFPLv3).
