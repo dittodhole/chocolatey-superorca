@@ -1,5 +1,15 @@
 {
-  "contributors": [],
+  "contributors": [
+    {
+      "login": "felfert",
+      "name": "Fritz Elfert",
+      "avatar_url": "https://avatars.githubusercontent.com/u/731252?v=4",
+      "profile": "http://www.fritz-elfert.de",
+      "contributions": [
+        "maintenance"
+      ]
+    }
+  ],
   "projectName": "chocolatey-superorca",
   "projectOwner": "dittodhole",
   "repoType": "github",
