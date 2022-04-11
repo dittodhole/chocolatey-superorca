@@ -3,7 +3,7 @@
   <metadata>
     <id>superorca</id>
     <title>superorca</title>
-    <version>11.0.0.0</version>
+    <version>11.0.0.1</version>
     <authors>Pantaray Research Ltd.</authors>
     <owners>dittodhole</owners>
     <description>SuperOrca from "Pantaray Research Ltd." is a direct replacement to the "Orca" MSI Editor from Microsoft. SuperOrca may be used to examine and modify an MSI database in order to distribute a new MSI package. When QSetup delivers an MSI Editor, SuperOrca delivers an MSI Database Editor and let you discover the depth of MSI Database.</description>
