@@ -8,6 +8,15 @@
       "contributions": [
         "maintenance"
       ]
+    },
+    {
+      "login": "klou",
+      "name": "Kris Lou",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1377378?v=4",
+      "profile": "https://github.com/klou",
+      "contributions": [
+        "maintenance"
+      ]
     }
   ],
   "projectName": "chocolatey-superorca",
