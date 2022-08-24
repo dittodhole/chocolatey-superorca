@@ -33,6 +33,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
 <table>
   <tr>
     <td align="center"><a href="http://www.fritz-elfert.de"><img src="https://avatars.githubusercontent.com/u/731252?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Fritz Elfert</b></sub></a><br /><a href="#maintenance-felfert" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/klou"><img src="https://avatars.githubusercontent.com/u/1377378?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kris Lou</b></sub></a><br /><a href="#maintenance-klou" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
